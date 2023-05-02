@@ -1,2 +1,2 @@
-# CubeSurferOyun(1)
+# CubeSurferOyun
 My first game on GitHub
